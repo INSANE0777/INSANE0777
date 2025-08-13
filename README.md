@@ -4,7 +4,6 @@
 $ ssh insane0777@github.dev
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=TERMINAL%20SESSION&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20INSANE0777's%20Development%20Environment&descAlignY=65&descAlign=50&descSize=20"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=user%40github%3A~%24+whoami;%3E+INSANE0777+%7C+Creative+Developer;%3E+Building+Digital+Solutions+Since+2020;user%40github%3A~%24+./initialize_session.sh;%3E+Session+Initialized+Successfully+%E2%9C%93" alt="Typing SVG" />
 
