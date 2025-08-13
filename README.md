@@ -152,7 +152,7 @@ $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
 </p>
 
 
-<img src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INSANE0777?cardType=level-alternate&theme=blue-green&preferLogin=false)](https://git.io/awesome-stats-card)"/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INSANE0777?cardType=level-alternate&theme=blue-green&preferLogin=false)](https://git.io/awesome-stats-card
 
 </div>
 
