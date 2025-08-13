@@ -146,13 +146,7 @@ $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
 └───────────────────────────────────────────────────────────────────┘
 ```
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=INSANE0777&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSANE0777&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF"/>
-</p>
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INSANE0777?cardType=level-alternate&theme=blue-green&preferLogin=false)](https://git.io/awesome-stats-card
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INSANE0777?cardType=level-alternate&theme=blue-green&preferLogin=false)]
 
 </div>
 
