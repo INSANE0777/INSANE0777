@@ -5,6 +5,7 @@ $ ssh insane0777@github.dev
 ```
 
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=user%40github%3A~%24+whoami;%3E+INSANE0777+%7C+Creative+Developer;%3E+Building+Digital+Solutions+Since+2020;user%40github%3A~%24+./initialize_session.sh;%3E+Session+Initialized+Successfully+%E2%9C%93" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -146,7 +147,13 @@ $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
 ```
 
 <p>
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INSANE0777?cardType=level-alternate&theme=blue-green&preferLogin=false)](https://git.io/awesome-stats-card)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=INSANE0777&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSANE0777&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF"/>
+</p>
+
+
+<img src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INSANE0777?cardType=level-alternate&theme=blue-green&preferLogin=false)](https://git.io/awesome-stats-card)"/>
+
 </div>
 
 ---
