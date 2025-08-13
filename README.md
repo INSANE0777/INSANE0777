@@ -1,8 +1,8 @@
- <div align="center">
+<div align="center">
 
-
+bash
 $ ssh insane0777@github.dev
-                                       
+                                           
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=user%40github%3A~%24+whoami;%3E+INSANE0777+%7C+Creative+Developer;%3E+Building+Digital+Solutions+Since+2023;user%40github%3A~%24+./initialize_session.sh;%3E+Session+Initialized+Successfully+%E2%9C%93" alt="Typing SVG" />
@@ -15,7 +15,7 @@ $ ssh insane0777@github.dev
 
 <div align="center">
 
-
+bash
 $ cat ~/.config/developer.json | jq '.'
 
 
@@ -40,7 +40,7 @@ terminal
 
 <div align="center">
 
-
+bash
 $ netstat -tulpn | grep LISTEN
 
 
@@ -53,7 +53,7 @@ terminal
 │  📡 Broadcasting...      │
 │                          │
 └──────────────────────────┘
-```
+
 
 <a href="https://facebook.com/insane7777" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=000000" alt="Facebook"/>
@@ -65,7 +65,7 @@ terminal
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
 </a>
 
-```terminal
+terminal
 ══════════════════════════════════════════════════════════════════════════════
 
 
@@ -75,7 +75,7 @@ terminal
 
 <div align="center">
 
-
+bash
 $ tree -L 3 /opt/development/stack/ --dirsfirst
 
 
@@ -85,7 +85,7 @@ $ tree -L 3 /opt/development/stack/ --dirsfirst
 
 <div align="center">
 
-
+bash
 $ ./display_tech_badges.sh --format=shields --style=professional
 
 
@@ -119,9 +119,9 @@ $ ./display_tech_badges.sh --format=shields --style=professional
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=000000)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white&labelColor=000000)
 
-```terminal
+terminal
 ══════════════════════════════════════════════════════════════════════════════
-```
+
 
 </div>
 
@@ -129,7 +129,7 @@ $ ./display_tech_badges.sh --format=shields --style=professional
 
 <div align="center">
 
-
+bash
 $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
 
 
@@ -158,7 +158,7 @@ terminal
 
 <div align="center">
 
-
+bash
 $ ./achievement_scanner.sh --unlock-trophies --display-matrix
 
 
@@ -184,7 +184,7 @@ terminal
 
 <div align="center">
 
-
+bash
 $ curl -s "https://api.quotable.io/random?tags=technology" | jq '.content'
 
 
@@ -208,7 +208,7 @@ terminal
 
 <div align="center">
 
-
+bash
 $ tail -f /var/log/visitors.access.log | grep -E "(GET|POST)" --color=always
 
 
@@ -228,8 +228,9 @@ terminal
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=Thanks+for+exploring+my+digital+workspace!;Ready+to+build+something+amazing+together%3F;Let's+connect+and+create+the+future!" alt="Closing Message"/>
 
-
+bash
 user@github:~$ echo "Session active - Ready for next command..."
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&animation=twinkling&fontColor=00FF41"/>
 
