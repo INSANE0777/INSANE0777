@@ -146,14 +146,7 @@ $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
 ```
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=INSANE0777&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSANE0777&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF"/>
-</p>
-
-<img src="https://github-readme-streak-stats.vercel.app/?user=INSANE0777&theme=dark&hide_border=true&stroke=00FF41&background=000000&currStreakLabel=00FF41&ring=00FF41&fire=00FF41&sideLabels=FFFFFF"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=INSANE0777&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&radius=10&area_color=00FF4120" width="100%"/>
-
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INSANE0777?cardType=level-alternate&theme=blue-green&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
 ---
