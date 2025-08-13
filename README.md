@@ -1,11 +1,12 @@
 <div align="center">
 
-bash
+```bash
 $ ssh insane0777@github.dev
-                                           
+```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=TERMINAL%20SESSION&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20INSANE0777's%20Development%20Environment&descAlignY=65&descAlign=50&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=user%40github%3A~%24+whoami;%3E+INSANE0777+%7C+Creative+Developer;%3E+Building+Digital+Solutions+Since+2023;user%40github%3A~%24+./initialize_session.sh;%3E+Session+Initialized+Successfully+%E2%9C%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=user%40github%3A~%24+whoami;%3E+INSANE0777+%7C+Creative+Developer;%3E+Building+Digital+Solutions+Since+2020;user%40github%3A~%24+./initialize_session.sh;%3E+Session+Initialized+Successfully+%E2%9C%93" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -15,9 +16,9 @@ $ ssh insane0777@github.dev
 
 <div align="center">
 
-bash
+```bash
 $ cat ~/.config/developer.json | jq '.'
-
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%7B;++%22current_focus%22%3A+%22%F0%9F%94%AD+NEXT.JS+Development%22%2C;++%22collaboration%22%3A+%22%F0%9F%91%AF+NEXT.JS+Projects%22%2C;++%22learning%22%3A+%22%F0%9F%A4%9D+THREE.JS+Mastery%22%2C;++%22studying%22%3A+%22%F0%9F%8C%B1+DEEP+LEARNING%22%2C;++%22expertise%22%3A+%5B%22REACT%22%2C+%22NEXT%22%2C+%22PYTHON%22%5D%2C;++%22personality%22%3A+%22%E2%9A%A1+CREATIVE+%26+INNOVATIVE%22;%7D" alt="Config Typing"/>
 
@@ -25,14 +26,14 @@ $ cat ~/.config/developer.json | jq '.'
 
 <div align="center">
 
-terminal
+```terminal
 ┌─────────────────────── SYSTEM INFORMATION ───────────────────────┐
 │                                                                   │
 │  💻 Status: ONLINE    🔥 Mode: DEVELOPMENT    ⚡ Power: CREATIVE   │
 │  📊 Uptime: 24/7      🚀 Performance: OPTIMAL                     │
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
-
+```
 
 </div>
 
@@ -40,20 +41,20 @@ terminal
 
 <div align="center">
 
-bash
+```bash
 $ netstat -tulpn | grep LISTEN
-
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=tcp+0.0.0.0%3A443+LISTEN+%F0%9F%94%97+Social+Networks;tcp+0.0.0.0%3A80++LISTEN+%F0%9F%8C%90+Web+Services;tcp+0.0.0.0%3A22++LISTEN+%F0%9F%94%91+SSH+Connection" alt="Network Status"/>
 
-terminal
+```terminal
 ┌─── ACTIVE CONNECTIONS ───┐
 │                          │
 │  🔗 Establishing links   │
 │  📡 Broadcasting...      │
 │                          │
 └──────────────────────────┘
-
+```
 
 <a href="https://facebook.com/insane7777" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=000000" alt="Facebook"/>
@@ -65,9 +66,9 @@ terminal
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
 </a>
 
-terminal
+```terminal
 ══════════════════════════════════════════════════════════════════════════════
-
+```
 
 </div>
 
@@ -75,9 +76,9 @@ terminal
 
 <div align="center">
 
-bash
+```bash
 $ tree -L 3 /opt/development/stack/ --dirsfirst
-
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=450&lines=%2Fopt%2Fdevelopment%2Fstack%2F;%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%93%81+languages%2F;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%94%A7+c.compiler;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%94%A7+cpp.compiler;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%90%8D+python.interpreter;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%9F%A8+javascript.engine;%E2%94%82+++%E2%94%94%E2%94%80%E2%94%80+%F0%9F%94%B7+typescript.compiler;%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%93%81+frontend%2F;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%8C%90+html5.markup;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%8E%A8+css3.stylesheet;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%E2%9A%9B%EF%B8%8F+react.library;%E2%94%82+++%E2%94%94%E2%94%80%E2%94%80+%E2%96%B2+nextjs.framework;%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%93%81+backend%2F;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%9F%A2+nodejs.runtime;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%8C%B6%EF%B8%8F+flask.framework;%E2%94%82+++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%94%A5+firebase.service;%E2%94%82+++%E2%94%94%E2%94%80%E2%94%80+%F0%9F%90%AC+mysql.database;%E2%94%94%E2%94%80%E2%94%80+%F0%9F%93%81+data_science%2F;++++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%93%8A+numpy.array;++++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%90%BC+pandas.dataframe;++++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%93%88+matplotlib.plotter;++++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%93%8A+plotly.visualizer;++++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%A4%96+sklearn.models;++++%E2%94%9C%E2%94%80%E2%94%80+%F0%9F%A7%A0+tensorflow.neural_net;++++%E2%94%94%E2%94%80%E2%94%80+%F0%9F%94%97+keras.sequential" alt="Tech Stack Tree"/>
 
@@ -85,9 +86,9 @@ $ tree -L 3 /opt/development/stack/ --dirsfirst
 
 <div align="center">
 
-bash
+```bash
 $ ./display_tech_badges.sh --format=shields --style=professional
-
+```
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,nodejs,flask,firebase,mysql&theme=dark&perline=7"/>
 
@@ -119,9 +120,9 @@ $ ./display_tech_badges.sh --format=shields --style=professional
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=000000)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white&labelColor=000000)
 
-terminal
+```terminal
 ══════════════════════════════════════════════════════════════════════════════
-
+```
 
 </div>
 
@@ -129,13 +130,13 @@ terminal
 
 <div align="center">
 
-bash
+```bash
 $ git log --graph --pretty=format:'%h - %an, %ar : %s' --stat
-
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=Analyzing+repository+data...;Generating+comprehensive+stats..." alt="Loading Stats"/>
 
-terminal
+```terminal
 ┌────────────── 📊 PERFORMANCE METRICS DASHBOARD ──────────────────┐
 │                                                                   │
 │  🔍 Scanning repositories...                    [████████████] ✓ │
@@ -143,14 +144,16 @@ terminal
 │  🎯 Optimizing display...                       [████████████] ✓ │
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
-
+```
 
 <p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=INSANE0777&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSANE0777&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF"/>
+</p>
 
+<img src="https://github-readme-streak-stats.vercel.app/?user=INSANE0777&theme=dark&hide_border=true&stroke=00FF41&background=000000&currStreakLabel=00FF41&ring=00FF41&fire=00FF41&sideLabels=FFFFFF"/>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INSANE0777?cardType=level-alternate&theme=blue-green&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=INSANE0777&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&radius=10&area_color=00FF4120" width="100%"/>
 
 </div>
 
@@ -158,25 +161,25 @@ terminal
 
 <div align="center">
 
-bash
+```bash
 $ ./achievement_scanner.sh --unlock-trophies --display-matrix
-
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Scanning+GitHub+achievements...;Processing+contribution+patterns...;Unlocking+trophy+collection...;Achievement+system+initialized+successfully!" alt="Trophy Loading"/>
 
-terminal
+```terminal
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                           🏆 ACHIEVEMENT GALLERY 🏆                         ║
 ║                                                                              ║
 ║  Status: ACTIVE | Trophies Unlocked | Recognition System: ONLINE            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-
+```
 
 <img src="https://github-profile-trophy.vercel.app/?username=INSANE0777&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4"/>
 
-terminal
+```terminal
 ══════════════════════════════════════════════════════════════════════════════
-
+```
 
 </div>
 
@@ -184,19 +187,19 @@ terminal
 
 <div align="center">
 
-bash
+```bash
 $ curl -s "https://api.quotable.io/random?tags=technology" | jq '.content'
-
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Fetching+developer+wisdom...;Parsing+inspirational+content..." alt="Quote Loading"/>
 
-terminal
+```terminal
 ┌─────────────────── 💭 DAILY DEVELOPER INSPIRATION ───────────────────┐
 │                                                                       │
 │  "The best way to predict the future is to invent it." - Alan Kay     │
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
-
+```
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=000000)
 
@@ -208,13 +211,13 @@ terminal
 
 <div align="center">
 
-bash
+```bash
 $ tail -f /var/log/visitors.access.log | grep -E "(GET|POST)" --color=always
-
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=2500&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%5BINFO%5D+2025-08-13+%7C+New+connection+established;%5BINFO%5D+2025-08-13+%7C+Profile+data+loaded+successfully;%5BINFO%5D+2025-08-13+%7C+Interactive+session+initialized;%5BINFO%5D+2025-08-13+%7C+Welcome+to+the+development+environment!;%5BINFO%5D+2025-08-13+%7C+Ready+for+collaboration..." alt="System Logs"/>
 
-terminal
+```terminal
 ┌─────────────────── 📊 REAL-TIME MONITORING ───────────────────────┐
 │                                                                    │
 │  🌍 Global Reach: ACTIVE    📈 Engagement: HIGH                   │
@@ -222,15 +225,15 @@ terminal
 │  🤝 Collaboration: OPEN     🚀 Innovation Level: MAXIMUM          │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
-
+```
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=INSANE0777&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=Thanks+for+exploring+my+digital+workspace!;Ready+to+build+something+amazing+together%3F;Let's+connect+and+create+the+future!" alt="Closing Message"/>
 
-bash
+```bash
 user@github:~$ echo "Session active - Ready for next command..."
-
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&animation=twinkling&fontColor=00FF41"/>
 
